@@ -2,13 +2,13 @@ import java.util.function.BiFunction;
 
 public class EjemploBifunction {
     public static void main(String[] args) {
-        int numero1 = 12;
+        int numero = 12;
         int numero2 = 3423;
 
-        BiFunction<Integer, Integer, Integer> sumar = (n1, n2) -> n1 + n2;
+        BiFunction<Integer, Integer, Integer> sumar = (n, n2) -> n + n2;
 
-        int resultado = sumar.apply(numero1, numero2);
+        int resultado = sumar.apply(numero, numero2);
 
-        System.out.println(numero1 + " + " + numero2 + " = " + resultado);
+        System.out.println(numero + " + " + numero2 + " = " + resultado);
     }
 }
