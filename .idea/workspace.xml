@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2137631b-f378-4705-bf17-34202eb9b3cc" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/EjemploBiconsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploBifunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,11 +74,29 @@
       <option name="project" value="LOCAL" />
       <updated>1684107636334</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1684278372991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684278372991</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
